@@ -11,6 +11,8 @@ public class Main {
 	private static void displayGreeting() {
 		System.out.println("Hello, test people");
 		System.out.println("This is a test");
+		
+		System.out.println("Test 1");
 	}
 
 }
